@@ -2,6 +2,12 @@
 
 This project showcases a custom-trained YOLOv8 model for detecting helmets in images. The model is designed to promote safety compliance by identifying whether individuals are wearing helmets.
 
+![Capture](https://github.com/user-attachments/assets/e6b12996-22cd-47f6-8526-eb77cdcb9f08)
+
+![Capture1](https://github.com/user-attachments/assets/4cb582c9-0e59-438b-8a14-15e9f83aabdc)
+
+
+
 ## Features
 - **Helmet Detection**: Accurately identifies helmets in images across various scenarios.
 - **Confidence Scoring**: Provides confidence levels for each detection.
