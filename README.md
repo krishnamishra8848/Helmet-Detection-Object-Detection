@@ -13,10 +13,6 @@ This project showcases a custom-trained YOLOv8 model for detecting helmets in im
 - **Confidence Scoring**: Provides confidence levels for each detection.
 - **Custom Training**: Trained on a curated dataset for enhanced performance.
 
-## Model Access
-You can access the live model and try out helmet detection using this link:  
-[Helmet Detection Web App](https://helmet-detection-object-detection.onrender.com)
-
 ## Model Details
 - **Framework**: YOLOv8 by Ultralytics
 - **Model Weights**: `last.pt`
